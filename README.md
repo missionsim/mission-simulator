@@ -2,7 +2,7 @@
 
 A modern, full-stack drone mission planning and control system with AI-powered mission generation capabilities. The system consists of a React-based frontend ground control station and a FastAPI backend service for intelligent mission planning.
 
-## 🌟 Features
+## Features
 
 ### Frontend (Ground Control Station)
 - **Interactive Map Interface**: Click-to-add waypoints and visual mission planning
@@ -36,7 +36,7 @@ Mission Simulator
     └── SSE Streaming   # Real-time updates
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -263,7 +263,7 @@ mission_simulator/
     └── tests/            # API tests
 ```
 
-## 🌐 API Documentation
+## API Documentation
 
 Once the backend is running, access interactive documentation at:
 - **Swagger UI**: `http://localhost:8000/docs`
