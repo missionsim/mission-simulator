@@ -539,7 +539,7 @@ const Sidebar: React.FC = () => {
             variant="outlined"
             fullWidth
             startIcon={<GitHub />}
-            onClick={() => window.open('https://github.com/lukehollis/mission-simulator', '_blank')}
+            onClick={() => window.open('https://github.com/missionsim/mission-simulator', '_blank')}
             sx={{
               fontSize: '12px',
               py: 1,
